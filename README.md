@@ -10,7 +10,9 @@ strings-stream
 ```js
 var stringsStream = require('strings-stream')
 
-stringsStream()
+process.stdin
+	.pipe(stringsStream())
+	.pipe(process.stdout)
 ```
 
 # api
@@ -19,7 +21,11 @@ stringsStream()
 var stringsStream = require('strings-stream')
 ```
 
-# `stringsStream()`
+# `var stream = stringsStream([opts])`
+
+- `opts` is an optional object of options
+	- `minLength` is the minimum length a string has to be to make it through. (Like the `-n`/`--bytes` option in `strings`.) *Default:* `4`. (Same as `strings`.)
+- **Returns** `stream`, which is a through stream
 
 # install
 
