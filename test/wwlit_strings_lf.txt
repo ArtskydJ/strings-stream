@@ -1,0 +1,972 @@
+JFIF
+.Exif
+Adobe Photoshop 7.0
+2002:12:11 19:58:26
+Photoshop 3.0
+8BIM
+8BIM
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.print.PageFormat.PMHorizontalRes</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMHorizontalRes</key>
+				<real>72</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2002-11-27T21:28:02Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMOrientation</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMOrientation</key>
+				<integer>1</integer>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2002-11-27T21:28:02Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMScaling</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMScaling</key>
+				<real>1</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2002-11-27T21:28:02Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMVerticalRes</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMVerticalRes</key>
+				<real>72</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2002-11-27T21:28:02Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.PageFormat.PMVerticalScaling</key>
+	<dict>
+		<key>com.apple.print.ticket.creator</key>
+		<string>com.apple.printingmanager</string>
+		<key>com.apple.print.ticket.itemArray</key>
+		<array>
+			<dict>
+				<key>com.apple.print.PageFormat.PMVerticalScaling</key>
+				<real>1</real>
+				<key>com.apple.print.ticket.client</key>
+				<string>com.apple.printingmanager</string>
+				<key>com.apple.print.ticket.modDate</key>
+				<date>2002-11-27T21:28:02Z</date>
+				<key>com.apple.print.ticket.stateFlag</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>com.apple.print.subTicket.paper_info_ticket</key>
+	<dict>
+		<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.printingmanager</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2002-12-12T03:58:25Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.printingmanager</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2002-12-12T03:58:25Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMPaperName</key>
+					<string>na-letter</string>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.print.pm.PostScript</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2000-07-28T22:57:04Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key>
+					<array>
+						<real>0.0</real>
+						<real>0.0</real>
+						<real>734</real>
+						<real>576</real>
+					</array>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2002-11-27T21:28:02Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key>
+					<array>
+						<real>-18</real>
+						<real>-18</real>
+						<real>774</real>
+						<real>594</real>
+					</array>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.printingmanager</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2002-11-27T21:28:02Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
+		<dict>
+			<key>com.apple.print.ticket.creator</key>
+			<string>com.apple.print.pm.PostScript</string>
+			<key>com.apple.print.ticket.itemArray</key>
+			<array>
+				<dict>
+					<key>com.apple.print.PaperInfo.ppd.PMPaperName</key>
+					<string>Letter</string>
+					<key>com.apple.print.ticket.client</key>
+					<string>com.apple.print.pm.PostScript</string>
+					<key>com.apple.print.ticket.modDate</key>
+					<date>2000-07-28T22:57:04Z</date>
+					<key>com.apple.print.ticket.stateFlag</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<key>com.apple.print.ticket.APIVersion</key>
+		<string>00.20</string>
+		<key>com.apple.print.ticket.privateLock</key>
+		<false/>
+		<key>com.apple.print.ticket.type</key>
+		<string>com.apple.print.PaperInfoTicket</string>
+	</dict>
+	<key>com.apple.print.ticket.APIVersion</key>
+	<string>00.20</string>
+	<key>com.apple.print.ticket.privateLock</key>
+	<false/>
+	<key>com.apple.print.ticket.type</key>
+	<string>com.apple.print.PageFormatTicket</string>
+</dict>
+</plist>
+8BIM
+8BIM
+8BIM
+8BIM
+x8BIM
+8BIM
+8BIM
+8BIM'
+8BIM
+8BIM
+8BIM
+8BIM
+8BIM
+null
+boundsObjc
+Rct1
+Top long
+Leftlong
+Btomlong
+Rghtlong
+slicesVlLs
+Objc
+slice
+sliceIDlong
+groupIDlong
+originenum
+ESliceOrigin
+autoGenerated
+Typeenum
+ESliceType
+Img 
+boundsObjc
+Rct1
+Top long
+Leftlong
+Btomlong
+Rghtlong
+urlTEXT
+nullTEXT
+MsgeTEXT
+altTagTEXT
+cellTextIsHTMLbool
+cellTextTEXT
+	horzAlignenum
+ESliceHorzAlign
+default
+	vertAlignenum
+ESliceVertAlign
+default
+bgColorTypeenum
+ESliceBGColorType
+None
+	topOutsetlong
+leftOutsetlong
+bottomOutsetlong
+rightOutsetlong
+8BIM
+8BIM
+8BIM
+Hhttp://ns.adobe.com/xap/1.0/
+<?xpacket begin='
+' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?adobe-xap-filters esc="CR"?>
+<x:xapmeta xmlns:x='adobe:ns:meta/' x:xaptk='XMP toolkit 2.8.2-33, framework 1.5'>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
+ <rdf:Description about='uuid:3ca8f774-0ed5-11d7-b622-c0de5f439c2f'
+  xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/'>
+  <xapMM:DocumentID>adobe:docid:photoshop:3ca8f770-0ed5-11d7-b622-c0de5f439c2f</xapMM:DocumentID>
+ </rdf:Description>
+</rdf:RDF>
+</x:xapmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                       
+<?xpacket end='w'?>
+8ICC_PROFILE
+(ADBE
+mntrRGB XYZ 
+acspAPPL
+none
+-ADBE
+cprt
+2desc
+dwtpt
+bkpt
+rTRC
+gTRC
+bTRC
+rXYZ
+gXYZ
+bXYZ
+text
+Copyright 1999 Adobe Systems Incorporated
+desc
+Apple RGB
+XYZ 
+XYZ 
+curv
+curv
+curv
+XYZ 
+XYZ 
+XYZ 
+Adobe
+!1AQ
+K9iZ
+2WH,
+?-fUP
+#s;r
+";:A
+S9v*D
+B)gR
+5q4mj%aY
+=cM@=w
+8;%d^
+85`(
+}G= Uod:
+6#6*
+SL9n
+v^;Yaw
+;i +lZ
+9##2
+XL6R
+ ~Zhm}
+h`ETR@x
+&}#A
+R5G:
+N*G_
+mI`?,
+.*PL
+(O	<8j
+<=hz
+v6Us
++c}I@
+OoM5q
+QeBI
+'WL%
+b q;o
+<u<QRo
+O]$4
+[XP8
+N<5Q
+])RX
+vU2R
+jm;2
+?]([Wm$
+Cl2,
+%/PR
+mEgr
+z!Eu
+&v+<
+Rj%p
+27'K
+s:!V~
+UZlO"
+pk"H
+&O!)fP
+,YuR
+UZ[S
+sWa*
+} [[
+kVQL
+pMb^
+G"5,
+"'Te
+bKNM
+xl:c
+	i6Z
+DE`	
+_!'6m
+mPA/
+OMmb
+6)@@>
+GpYW
+2Al"
+L4tGe
+h	EB
+n	@*
+@:HS
+pal-,@
+,+m2
+Xd,N
+	U&w
+O-nVq3
+^GWS
+([**
+gj[J-
+>:;)
+(~*u
+h/k,z
+_mj\
+_m@u
+vItf
+(ng{
+Cq=L
+u3U#Uec
+e_qq^
+V@uo
+=7|3
+DH$|
+%jAud* 
+"yl4
+"Z8p
+`/`2.
+|p|w\
+A?3$
+\FLq
+LC-W
+!a+	e
+	 i8
+], A
+55UQM
+F.vR
+EU-H
+^S2y
+LXVj
+%&L{b5x1
+Y&u~
+\v"D
+`pv]
+UC$]_l
+K,vd9
+"@"	;
+f!i6'l
+YiEOS
+U'*U 
+3nSq
+uuWc
+:}ut
+Ab}D
+6S`V
+]?B{
+>)[CVF
+=oNR
+hM**
+WP^:
+i:S+
+N8o 
+ 1<G=?C
+fif8
+-iuV#
+"5gS
+0MnA
+jcMdN
+RrFn
+cWX)
+e{R"7#x
+@1Lx
+u(gt
+aBkz
+"$[+
+,5<gZk
+yp=uf
+)kU 
+xDk1W
+9U3,,a;nq
+NM*v
+YS{o
+U&2>
+UkkV
+reU~G
+jw7*
+	wp`
+k(,z
+ue)vyv
+TRc#
+YI_2
+OllI
+YN9/
+HVHK&,
+r5v`
+kU#0
+]ev<G);
+)glH
+9'M1
+\$\lW
+jK%|d
+cQnt
+]ILH
+gm^C
+feUE
+M\RE
+3[]T|
+VRV{!
+VJ)]
++'wT
+w:JX
+Em^64
+[kA}
+L]Mn.Q
+=0-m
+KekVc
+ijH4
+&gWLG
+LOmf
+;Gp:
+QD")*'
+o~=5Q
+<{<[/P
+|CLnt
+3W#c
+=uWYWm
+~Eu[j
+yG=Y
+=M\/%P
+BbC@
+I<O^
+6Cq<:
+/dpp
+rVF'
+X?6%L
+O.YH
+$.I`
+:CC}
+JC(@X
+%k-R
+YWs*6
+CZj)%T+
+pe,Uvh1
+>rMq
+Tbwb
++j1}
+t/] n
+}gD%,;)c
+@?Y:(
+{f$"
+%#'`
+b7mWl
+'W14
+'QKZ
+Ej@`X
+H+pE
+*Mi&
+YmARx
+' }9j
+wR}w
+bO"9
+EfAB6'm[S
+AS!SZe1?<fO
+P(#n{
+!Acc
+illR
+A`Tm
+=pI1
+G>cc]
+zx}~#
+	='(
+6".@
+J	)^8
+pWr%
+kVdB
+Y,	c
+h)Q]uWs
+>([ Y
+,!L7
+|h)k
++uEU
+z1L2
+ lv`J0
+#K@y	
+R-#%
+6#Pgb
+-hCw
+SU^w+
+rQ$6
+icnJ
+MrErZ
+;/]*
+1fRg#
+LLj(V
+&&zz
+u3#S
+<ebR
+vXL%JI
+Im[ AZ
+F>+=
+"']o
+!me'&
+rUMu
+W`Co$
+$WN+
+^V5v?
+GP5*
+e;MS[M
+.AHoM3
+YAd6%a
+&utF
+dQ'a
++ ~0v
+Auc-c
+u%0a
+k<q2
+}\53
+\537j
+!Yf	
+Lwlb`p
+"C)`
+=='N
+^:u]^1
+7wfgh
+'~;j
+JN7wg
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+|namd
+Arial Narrow Italic
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master title style
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master title style
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+hnamd
+Andrew
+On-screen Show
+What Wondrous LoR
+hnamd
+hnamd
+hnamd
+hnamd
+hnamd
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+|namd
+Arial Narrow Italic
+tnamd
+Arial Narrow
+tnamd
+Arial Narrow
+,namd
+	Gill Sans
+What Wondrous Love is This 
+What Wondrous Love is This 
+What Wondrous Love is This 
+What Wondrous Love is This 
+What Wondrous Love is This 
+What Wondrous Love is This 
+Words: Alexander Means. Music: William Walker, 1835.
+Click to edit Master text styles
+Second level
+Third level
+Fourth level
+Fifth level
+Click to edit Master title style
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+What wondrous love is this, 
+O my soul, O my soul, 
+what wondrous love is this, O my soul! 
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+What wondrous love is this 
+that caused the Lord of bliss 
+to bear the dreadful curse 
+for my soul, for my soul, 
+to bear the dreadful curse for my soul! 
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+To God and to the Lamb, 
+I will sing, I will sing, 
+to God and to the Lamb, 
+I will sing; 
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+to God and to the Lamb, 
+who is the great I AM, 
+while millions join the theme, 
+I will sing, I will sing, 
+while millions join the theme, 
+I will sing!
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+|namd
+Arial Narrow Bold
+,namd
+	Gill Sans
+e is This 
+What Wondrous Love is This 
+What Wondrous Love is This 
+What Wondrous Love is This 
+Fonts Used
+Design Template
+Slide Titles
+Michael
+On-screen Show
+What Wondrous Love is This 
+Mike Elliott
+Gill Sans
+ Pro W3
+Lucida Grande
+Arial Narrow
+Title & Subtitle copy 1
+What Wondrous Love is This 
+What Wondrous Love is This 
+What Wondrous Lov

@@ -7,8 +7,10 @@ var stringsStream = require('../index.js')
 
 // If you do NOT have a `strings` executable
 test('basic functionality', function (t) {
+	var eol = process.platform === 'win32' ? 'crlf' : 'lf'
+	var expectFilename = 'wwlit_strings_' + eol + '.txt'
 	var actualStream = fs.createReadStream(path.join(__dirname, 'What_Wondrous_Love_is_This.ppt'))
-	var expectStream = fs.createReadStream(path.join(__dirname, 'wwlit_strings.txt'))
+	var expectStream = fs.createReadStream(path.join(__dirname, expectFilename))
 	compare(actualStream.pipe(stringsStream()), expectStream, function (err, equal) {
 		t.ifError(err)
 		t.ok(equal, 'the streams are equal')
