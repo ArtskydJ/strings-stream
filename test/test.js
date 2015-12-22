@@ -29,3 +29,15 @@ test('spawn strings process', function (t) {
 		t.end()
 	})
 })
+
+// If you have a `strings` executable
+test('minLength option', function (t) {
+	var actualStream = fs.createReadStream(path.join(__dirname, 'What_Wondrous_Love_is_This.ppt'))
+	var proc = cp.spawn('strings', ['-n', '10' ])
+	actualStream.pipe(proc.stdin)
+	compare(actualStream.pipe(stringsStream({ minLength: 10 })), proc.stdout, function (err, equal) {
+		t.ifError(err)
+		t.ok(equal, 'the streams are equal')
+		t.end()
+	})
+})
