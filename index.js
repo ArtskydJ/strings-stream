@@ -1,5 +1,6 @@
 var through2 = require('through2')
 var xtend = require('xtend')
+var EOL = require('os').EOL
 
 function isStringy(val) { // a-zA-Z0-9\t
 	return (val >= 32 && val <= 126) || val === 9
@@ -15,7 +16,7 @@ module.exports = function stringsStream(options) {
 			if (!stringLike && pieceIsStringLike) {
 				stringStart = i
 			} else if (stringLike && !pieceIsStringLike && i - stringStart >= opts.minLength /*&& chunk[i] === 0*/) {
-				this.push(chunk.slice(stringStart, i) + '\r\n') // Maybe should be require('os').EOL
+				this.push(chunk.slice(stringStart, i) + EOL)
 			}
 			stringLike = pieceIsStringLike
 		}
