@@ -1,0 +1,26 @@
+{
+  "name": "strings-stream",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "license": "MIT",
+  "author": {
+    "name": "ArtskydJ",
+    "email": "josephdykstra@gmail.com"
+  },
+  "description": "A streaming unix `strings` port",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtskydJ/strings-stream"
+  },
+  "scripts": {
+    "test": "tape ./test/*.js"
+  },
+  "dependencies": {
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "equal-streams": "0.0.6",
+    "tape": "^4.0.0"
+  }
+}

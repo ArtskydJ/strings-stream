@@ -1,0 +1,2956 @@
+JFI
+.Exi
+M
+Adobe Photoshop 7.
+2002:12:11 19:58:2
+Photoshop 3.
+8BI
+8BI
+<?xml version="1.0" encoding="UTF-8"?
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"
+<plist version="1.0"
+<dict
+	<key>com.apple.print.PageFormat.PMHorizontalRes</key
+	<dict
+		<key>com.apple.print.ticket.creator</key
+		<string>com.apple.printingmanager</string
+		<key>com.apple.print.ticket.itemArray</key
+		<array
+			<dict
+				<key>com.apple.print.PageFormat.PMHorizontalRes</key
+				<real>72</real
+				<key>com.apple.print.ticket.client</key
+				<string>com.apple.printingmanager</string
+				<key>com.apple.print.ticket.modDate</key
+				<date>2002-11-27T21:28:02Z</date
+				<key>com.apple.print.ticket.stateFlag</key
+				<integer>0</integer
+			</dict
+		</array
+	</dict
+	<key>com.apple.print.PageFormat.PMOrientation</key
+	<dict
+		<key>com.apple.print.ticket.creator</key
+		<string>com.apple.printingmanager</string
+		<key>com.apple.print.ticket.itemArray</key
+		<array
+			<dict
+				<key>com.apple.print.PageFormat.PMOrientation</key
+				<integer>1</integer
+				<key>com.apple.print.ticket.client</key
+				<string>com.apple.printingmanager</string
+				<key>com.apple.print.ticket.modDate</key
+				<date>2002-11-27T21:28:02Z</date
+				<key>com.apple.print.ticket.stateFlag</key
+				<integer>0</integer
+			</dict
+		</array
+	</dict
+	<key>com.apple.print.PageFormat.PMScaling</key
+	<dict
+		<key>com.apple.print.ticket.creator</key
+		<string>com.apple.printingmanager</string
+		<key>com.apple.print.ticket.itemArray</key
+		<array
+			<dict
+				<key>com.apple.print.PageFormat.PMScaling</key
+				<real>1</real
+				<key>com.apple.print.ticket.client</key
+				<string>com.apple.printingmanager</string
+				<key>com.apple.print.ticket.modDate</key
+				<date>2002-11-27T21:28:02Z</date
+				<key>com.apple.print.ticket.stateFlag</key
+				<integer>0</integer
+			</dict
+		</array
+	</dict
+	<key>com.apple.print.PageFormat.PMVerticalRes</key
+	<dict
+		<key>com.apple.print.ticket.creator</key
+		<string>com.apple.printingmanager</string
+		<key>com.apple.print.ticket.itemArray</key
+		<array
+			<dict
+				<key>com.apple.print.PageFormat.PMVerticalRes</key
+				<real>72</real
+				<key>com.apple.print.ticket.client</key
+				<string>com.apple.printingmanager</string
+				<key>com.apple.print.ticket.modDate</key
+				<date>2002-11-27T21:28:02Z</date
+				<key>com.apple.print.ticket.stateFlag</key
+				<integer>0</integer
+			</dict
+		</array
+	</dict
+	<key>com.apple.print.PageFormat.PMVerticalScaling</key
+	<dict
+		<key>com.apple.print.ticket.creator</key
+		<string>com.apple.printingmanager</string
+		<key>com.apple.print.ticket.itemArray</key
+		<array
+			<dict
+				<key>com.apple.print.PageFormat.PMVerticalScaling</key
+				<real>1</real
+				<key>com.apple.print.ticket.client</key
+				<string>com.apple.printingmanager</string
+				<key>com.apple.print.ticket.modDate</key
+				<date>2002-11-27T21:28:02Z</date
+				<key>com.apple.print.ticket.stateFlag</key
+				<integer>0</integer
+			</dict
+		</array
+	</dict
+	<key>com.apple.print.subTicket.paper_info_ticket</key
+	<dict
+		<key>com.apple.print.PageFormat.PMAdjustedPageRect</key
+		<dict
+			<key>com.apple.print.ticket.creator</key
+			<string>com.apple.printingmanager</string
+			<key>com.apple.print.ticket.itemArray</key
+			<array
+				<dict
+					<key>com.apple.print.PageFormat.PMAdjustedPageRect</key
+					<array
+						<real>0.0</real
+						<real>0.0</real
+						<real>734</real
+						<real>576</real
+					</array
+					<key>com.apple.print.ticket.client</key
+					<string>com.apple.printingmanager</string
+					<key>com.apple.print.ticket.modDate</key
+					<date>2002-12-12T03:58:25Z</date
+					<key>com.apple.print.ticket.stateFlag</key
+					<integer>0</integer
+				</dict
+			</array
+		</dict
+		<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key
+		<dict
+			<key>com.apple.print.ticket.creator</key
+			<string>com.apple.printingmanager</string
+			<key>com.apple.print.ticket.itemArray</key
+			<array
+				<dict
+					<key>com.apple.print.PageFormat.PMAdjustedPaperRect</key
+					<array
+						<real>-18</real
+						<real>-18</real
+						<real>774</real
+						<real>594</r
+eal
+					</array
+					<key>com.apple.print.ticket.client</key
+					<string>com.apple.printingmanager</string
+					<key>com.apple.print.ticket.modDate</key
+					<date>2002-12-12T03:58:25Z</date
+					<key>com.apple.print.ticket.stateFlag</key
+					<integer>0</integer
+				</dict
+			</array
+		</dict
+		<key>com.apple.print.PaperInfo.PMPaperName</key
+		<dict
+			<key>com.apple.print.ticket.creator</key
+			<string>com.apple.print.pm.PostScript</string
+			<key>com.apple.print.ticket.itemArray</key
+			<array
+				<dict
+					<key>com.apple.print.PaperInfo.PMPaperName</key
+					<string>na-letter</string
+					<key>com.apple.print.ticket.client</key
+					<string>com.apple.print.pm.PostScript</string
+					<key>com.apple.print.ticket.modDate</key
+					<date>2000-07-28T22:57:04Z</date
+					<key>com.apple.print.ticket.stateFlag</key
+					<integer>1</integer
+				</dict
+			</array
+		</dict
+		<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key
+		<dict
+			<key>com.apple.print.ticket.creator</key
+			<string>com.apple.print.pm.PostScript</string
+			<key>com.apple.print.ticket.itemArray</key
+			<array
+				<dict
+					<key>com.apple.print.PaperInfo.PMUnadjustedPageRect</key
+					<array
+						<real>0.0</real
+						<real>0.0</real
+						<real>734</real
+						<real>576</real
+					</array
+					<key>com.apple.print.ticket.client</key
+					<string>com.apple.printingmanager</string
+					<key>com.apple.print.ticket.modDate</key
+					<date>2002-11-27T21:28:02Z</date
+					<key>com.apple.print.ticket.stateFlag</key
+					<integer>0</integer
+				</dict
+			</array
+		</dict
+		<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key
+		<dict
+			<key>com.apple.print.ticket.creator</key
+			<string>com.apple.print.pm.PostScript</string
+			<key>com.apple.print.ticket.itemArray</key
+			<array
+				<dict
+					<key>com.apple.print.PaperInfo.PMUnadjustedPaperRect</key
+					<array
+						<real>-18</real
+						<real>-18</real
+						<real>774</real
+						<real>594</real
+					</array
+					<key>com.apple.print.ticket.client</key
+					<string>com.apple.printingmanager</string
+					<key>com.apple.print.ticket.modDate</key
+					<date>2002-11-27T21:28:02Z</date
+					<key>com.apple.print.ticket.stateFlag</key
+					<integer>0</integer
+				</dict
+			</array
+		</dict
+		<key>com.apple.print.PaperInfo.ppd.PMPaperName</key
+		<dict
+			<key>com.apple.print.ticket.creator</key
+			<string>com.apple.print.pm.PostScript</string
+			<key>com.apple.print.ticket.itemArray</key
+			<array
+				<dict
+					<key>com.apple.print.PaperInfo.ppd.PMPaperName</key
+					<string>Letter</string
+					<key>com.apple.print.ticket.client</key
+					<string>com.apple.print.pm.PostScript</string
+					<key>com.apple.print.ticket.modDate</key
+					<date>2000-07-28T22:57:04Z</date
+					<key>com.apple.print.ticket.stateFlag</key
+					<integer>1</integer
+				</dict
+			</array
+		</dict
+		<key>com.apple.print.ticket.APIVersion</key
+		<string>00.20</string
+		<key>com.apple.print.ticket.privateLock</key
+		<false/
+		<key>com.apple.print.ticket.type</key
+		<string>com.apple.print.PaperInfoTicket</string
+	</dict
+	<key>com.apple.print.ticket.APIVersion</key
+	<string>00.20</string
+	<key>com.apple.print.ticket.privateLock</key
+	<false/
+	<key>com.apple.print.ticket.type</key
+	<string>com.apple.print.PageFormatTicket</string
+</dict
+</plist
+8BI
+8BI
+8BI
+8BI
+x8BI
+8BI
+8BI
+8BIM
+8BI
+/f
+lf
+/f
+8BI
+8BI
+8BI
+8BI
+nul
+boundsObj
+Rct
+Top lon
+Leftlon
+Btomlon
+Rghtlon
+slicesVlL
+Obj
+slic
+sliceIDlon
+groupIDlon
+originenu
+ESliceOrigi
+autoGenerate
+Typeenu
+ESliceTyp
+Img
+boundsObj
+Rct
+Top lon
+Leftlon
+Btomlon
+Rghtlon
+urlTEX
+nullTEX
+MsgeTEX
+altTagTEX
+cellTextIsHTMLboo
+cellTextTEX
+	horzAlignenu
+ESliceHorzAlig
+defaul
+	vertAlignenu
+ESliceVertAlig
+defaul
+bgColorTypeenu
+ESliceBGColorTyp
+Non
+	topOutsetlon
+leftOutsetlon
+bottomOutsetlon
+rightOutsetlon
+8BI
+8BI
+8BI
+Hhttp://ns.adobe.com/xap/1.0
+<?xpacket begin=
+' id='W5M0MpCehiHzreSzNTczkc9d'?
+<?adobe-xap-filters esc="CR"?
+<x:xapmeta xmlns:x='adobe:ns:meta/' x:xaptk='XMP toolkit 2.8.2-33, framework 1.
+5'
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'
+ <rdf:Description about='uuid:3ca8f774-0ed5-11d7-b622-c0de5f439c2f
+  xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/'
+  <xapMM:DocumentID>adobe:docid:photoshop:3ca8f770-0ed5-11d7-b622-c0de5f439c2f</xapMM:DocumentID
+ </rdf:Description
+</rdf:RDF
+</x:xapmeta
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                                                                   
+                                                      
+<?xpacket end='w'?
+8ICC_PROFIL
+(ADB
+mntrRGB XYZ
+acspAPP
+non
+-ADB
+cpr
+2des
+dwtp
+bkp
+rTR
+gTR
+bTR
+rXY
+gXY
+bXY
+tex
+Copyright 1999 Adobe Systems Incorporate
+des
+Apple RG
+XYZ
+XYZ
+cur
+cur
+cur
+XYZ
+A
+XYZ
+XYZ
+&
+Adob
+d
+	
+!1A
+aq
+BR
+S
+!1
+Q
+f\
+( 
+jt
+@
+K9i
+M
+Tw
+1B
+_
+q
+e
+2WH
+$,
+k]
++
+,!
+g
+u$
+Ll
+5
+H
+g
+Q
+?-fU
+Q`
+`
+0
+A+
+u
+[
+de
+I:
+U
+#s;
+";:
+g]
+C+
+u
+I
+1
+`l
+S9v*
+D'
+B)g
+5q4mj%a
+n6
+=cM@=
+1t
+W
+54
+<
+8;%d
+I
+q*
+('
+T
+'
+QU
+85`
+zj
++
+s
+`
+]
+x
+B[
+}G= Uod
+Q
+6#6
+-'
+SL9
+t1
+r8
+K
+=
+a
++
+0
+Q
+"F
+9
+f$
+W
+`
+E
+v^;Ya
+p
++
+V
+k
+	
+%v
+#
+W
+;i +l
+l
+m
+O
+9##
+:
+.
+|(
+F
+sc
+"
+:
+c
+y
+"
+--
+|
+]
+XL6
+Z%
+ ~Zhm
+5
+MK
+P
+%
+R
+[
+I
+|
+w
+h`ETR@
+&}#
+)
+hu
+1
+0
+X
+@
+A#
+d\
+A
+`C
+X
+#
+R5G
+X
+B
+6
+N*G
+mI`?
+3+
+Z
+.*P
+1
+)
+s
+Q
+j
+=
+a
+I?
+xj
+(O	<8
+3
+2
+I
+<=h
+n6
+:
+4
+w
+}
+<
+p@
+;
+	
+l
+X
+G
+K
+5
+>
+v6U
+[}
+]
+P@
+ 
+].
+B(
+9
++c}I
+ 
+OoM5
+a
+?
+'
+cH
+Xg
+W
+(
+`
+X
+QeB
+U
+)i
+5
+:0
+}
+Y
+1 
+)
+O
+m
+d
+]
+'WL
+b q;
+.
+D
+<u<QR
+J
+3
+O^
+E
+:B
+'
+[+
+O]$
+D
+j
+=
+ 
+l
+p;
+zN
+dD
+c;
+=f
+o
+m
+#
+i
+O
+&
+g
+[XP
+?M
+k
+A
+N<5
+Ab
+a
+@
+$
+<L
+m
+b
+Q
+-
+$z
+f+
+=5
+b3
+}d
++
+])R
+'S
+i.
+f
+b
+0
+a<
+AE
+vU2
+(
+jm;
+&:
+6
+jL
+G
+M
+C
+1
+W.
+G=
+`
+qi
+5u
+/
+<
+i
+)
+]
+Y
+X
+&
+]5
+:Z
+Z
+n
+]0
+e
+W
+?]([Wm
+Cl2
+l-
+|
+;G
+w$
+{j
+UU
+[
+r
+O
+g
+O
+<
+%/P
+@"
+I
+MV
+C
+W
+`
+mEg
+5X
+G
+}	
+'+
+d,
+<1
+Z
+b
+Y
+z!E
+&v+
+I<
+#a
+)
+"
+QN
+A
+;
+r
+<
+]
+Rj%
+@
+q
+-
+27'
+B
+2
+t
+1
+=
+FZ
+s:!V
+m
+TP
+'
+l
+>
+Ln
+P
+@o
+|
+)
+UZlO
+&=
+	
+pk"
+v
+5t
+ 
+k
+,
+2z
+VK
+l
+f
+rf
+:j
+U\
+&O!)f
+<
+j
+7
+,*
+TJ
+*
+L
+4
+J!
+f
+U
+<
+@
+F
+<
+l
+,Yu
+h
+~
+z
+U
+w
+i
+A
+b
+h)
+-
+W
+'
+#
+UZ[
+(
+}
+#
+e
+A
+,
+,.
+}
+I
+$
+A
+sWa
+%
+t
+r
+j
+]8
+-
+3n
+eG
+*
+*C
+*
+|
+} [
+MM
+U[
+Gt
+e
+=
+!
+O
+W
+<
+M
+kVQ
+r
+]
+3
+Z
+g
+$
+w
+pMb
+G"5
+l
+(
+<
+2
+NZ
+Jk
+b8
+"
+;
+&
+mE
+G
+}
+U
+"'T
+q
+t	
+}E
+bKN
+@X
+f;
+|
+R
+:
+xl:
+.
+G^
+Y
+0
+!
+D
+1
+	i6
+,C
+\
+#
+?-
+D4
+#
++
+DE`
+=
+R
+E
+?
+j
+<
+-
+f
+@
+@
+g
+a
++
+>B
+I
+@
+_!'6
+mPA
+!
+OMm
+W
+;
+!
+k
+6)@@
+	p
+:
+k
+]
+8	
+GpY
+H
+mx
++
+k
+Xs
+4
+#
+0
+7i
+2Al
+j
+{
+Q
+3
+"
+K
+-
+qQ
+z
+e
+oi
+(
+@
+-
+A
+(
+cM
+a
+)
+N
+3
+/
+-
+L4tG
+N
++
+,
+]
+b
+KE
+E^
+)
+f
+M
+[
+X
+V
+G
+,I
+h	E
+J
+r
+#
+D
+[
+tP
+?M
+~
+9u
+~|
+V
+n	@
+I9
+H"
+*
+'
+@:H
+q
+H<
+J
+H2
+W
+V%
+pal-,
+b[
+M
+l
+{
+;
+4Y
+mX
+,+m
+Xd,
+0
+e
+;V
+	U&
+]
+4
+;j
+q
+=
+)e
+0
+ 
+;
+W
+B
+V
+=
+p
+w
+$)
+o
+O-nVq
+,$
+_}
+s
+^GW
+C
+]
+Cn
+'
+4
+G
+J
+v
+2*
+([*
+2*
+gj[J
+	U
+	
+G
+fY
+Yj
+]
+>:;
+3
+(~*
+g
+;
+v
+P(
+;&
++
+G3
+Lu
+OE
+o
+1G
+7q
+h/k,
+,
+5
+:X
+M
+bd
+_mj
+HP
+_m@
+;
+Um
+5
+F
+vIt
+(ng
+r/
+)
+$
+Jq
+a
+Cq=
+"
+l
+M
+r
+d
+e
+u3U#Ue
+8$
+i
+k
+O
+'
+!D
+b
+G
+l
+|L
+)&
+e_qq
+%
+V@u
+?
+SL
+d
+`_
+?l
+=7|
+C
+9
+X+
+e
+P
+2
+5
+HF
+9}
+0
+,
+DH$
+%jAud*
+S
+M
+w
+B;
+-
+"yl
+s_
+nx
+b	
+)
+"Z8
+Z
+`/`2
+X
+0
+L
+1
+6
+'
+Uk
+@
+g
+i>
+|p|w
++
+e
+)
+9
+<
+A?3
+[
+[
+#
+7
+L
+\FL
+q8
+M>
+u`
+]
+me
+[
+[
+e
+Mk
+{,
+LC-
+:
+?
+!a+	
+;
+Q
+F
+:
+q"
+1
+!
+	 i
+id
+k
+@P
+M
+]]
+], 
+ 
+*
+u
+T
+j
+p
+55UQ
+5
+M
+B
+3
+F.v
+W
+E
+P
+H
+]T
+KV
+c
+2q
+Q
+Ws
+l1
+5
+5
+jC
+0
+ci
+N
+EU-
+*
+M
+mk
+"
+u
+[
+H
+[
+5b
+I
+l
+^S2
+LXV
+|
+%&L{b5x
+T
+I
+-b
+Y&u
+s1
+>_
+\v"
+;
+D
+It
+ 
+u
+KT
+S
+`pv
+\
+UC$]_
+$
+zi
+U
+Y+
+v
+R
+i
+E
+QK
+}
+K,vd
+"@"	
+Q
+J
+R
+f!i6'
+ke
+P
+YiEO
+N
+n
+SB
+	<
+)
+5
+]
+M
+HX
+]
+E
+>
+i
+@8
+p
+&5
+<&
+`
+U'*U
+x
+;y
+i
+`
+u
+3nS
+H
+`
+q
+S
+I
+?.
+O
+uuW
+>
+`
+n
+S
+&
+4
+Q
+5
+]
+w
+y
+,A
+7
+A!
+:}u
+z
+&-
+g
+)
+mg
+`
+Ab}
+e
+#V
+F
+'@
+{
+S
+M
+8j
+	H
+i
+4
+6S`
+]?B
+g
+<L
+Sb
+\
+.
+#Z
+:
+(M
+#
+rQ
+g
+q
+X{
+!
+>)[CV
+W
+%
+:
+K
+Y
+a
+$}
+a
+=oN
+hM*
+"
+Z
+WP^
+lU
+)
+i:S
+6
+N8o
+V
+ 1<G=?
+`
+k
+@(
+k`
+,
+fif
+)
+G
+F
+-iuV
+@k
+Q
+I
+w
+"5g
+({
+}
+*
+nN
+0Mn
+Z
+s
+ 
+jcMd
+=
+RrF
+t
+s
+'P
+cWX
+&
+s=
+2
+X
+K)
+{
+kt
+Ye
+Xf
+1
+*N
+X
+hu
++
+b
+xD
+w
+p
+e{R"7#
+g
+>
+i
+f*
+!
+.
+2
++
+@1L
+u(g
+>g
+v
+]
+X
+D
+	
+i
+0
+<c
+1
+R
+%
+Z
+)
+j
+Y
+w
+|
+aBk
+p
+"$[
+m
+Sn
+0
+uk
+M
+y/
+g
+A&
+,5<gZ
+8c
+'
+V
+n
+yp=u
+)kU
+9
+%m
+xDk1
+*
+k
+CU
+XJ
+9U3,,a;n
+@w
+@c
+]
+#
+NM*
+q
+]T
+$
+d+
+R
+'I
+a
+i
+YS{
+vZ
+'
+|w
+@
+;
+]
+W-
+%
+U&2
+P
+Ukk
+reU~
+=
+jw7
+U
+q%
+k
+n
+l
+j
+G
+S
+L
+#
+	wp
+*
+b
+k(,
+:H
+1
+ue)vy
+_
+-
+,b
+k
+g
+=
+]
+I
+C
+ C
+TRc
+e&
+W
+.F
+YI_
+4
+^
+Oll
+`
+,
+O
+m
+k
+z
+]u
+YN9
+a
+n}
+E
+J
+HVHK&
+D
+kk
+-
+?
+D
+'
+:
+Vc
+j
+Yi
++
+f
+*
+;
+5
+e
+d4
+X
+}
+K
++
+r5v
+kU#
+&
+u
+T
+b&
+j@
+W`
+ka
+8
+HG
+V
+~
+@
+#
+L
+j
+98
+5
+Z
+@
+n
+U
+J
+]ev<G)
+a
+L
+^
+U
+>
+u
+0
+ 
++
+n
+M<
+l
+)gl
+>
+kY
+m
+Mv
+C
+E
+]
+U
+j
+K*
+ 
+}
+r
+9'M
+z
+Pv
+1
+ 
+]
+(R
+k
+/
+\$\l
+jK%|
+m
+q
+cQn
+p
+-
+K
+:m
+([
+c
+U
+V
+]IL
+b
+gm^
+,
+W
+feU
+J
+m
+6
+M
+B+
+e
+{
++
+>
+t
+	
+1
+&
+A
+|
+LB
+=
+9C
+=u
+)
+A
+=G
+%
+M\R
+3[]T
+VRV{
+VJ)
+}
+X
+A
+0
+z
+]5
+)
+V
++'w
+Z
+v6
+w:J
+b
+g
+A
+,c
+X:
+3
+o
+k
+Em^6
+6
+[kA
+a
+D
+?Q
+3s
+%
+?
+-
+Uc
+L]Mn.
+=%
+[.
+=0-
+S:
+X
+`9
+M
+AE
+?-
+`
+3#
+k
+,6
+;
+KekV
+-
+1
+-
+?
+I"
+0
+=
+ijH
+%
+&gWL
+=
+R
+Z
+LOm
+	5
+M
+;
+R
+b
+[ 
+;Gp
+k
+S
+Q
+Y
+n
+S
+V
+j*
+u1
+n
+,
+QD")*
+o~=5
+]
+<{<[/
+l
+5
+wl
+\j
+7
+'
+D
+-
+s
+L]
+V
+ ^
+3
+2
+#}
+ij
+l
+?
+|CLn
+PI
+5l
+v
+j
+3W#
+8
+k
+#
+=uWYW
+2
+~Eu[
+S
+'
+I
+"
+yG=
+m?
+4)
+r
+;
+8
+#
+s
+G
+=M\/%
+z
+j
+v
+"
+W"
+?
+U
+U
+]
+f$
+R
+g
+$
+H
+!
+DO
+*
+@
+E
+:L
+_
+]
+L
+p
+BbC
+M
+U
+f
+q
+y
+<\
+<
+Ej
+jv
+g
+O
+G
+-
+E
+[
++
+}c
+S
+L
+AQ
+R
+P
+I<O
+P
+eY
+Z
+#
+W
+Q
+A
+3
+6Cq<
+e
+%[
+J
+N
+=
+"
+>
+#=
+8
+"
+d(
+c
+3
+K
+7@
+=
+M
+\
+F
+)
+Z
+(B
+5t
+6[
+3
+-K
+"
+(
+C
+W9
+#'
+ 
+C4
+!)
+}
+/dp
+rVF
+&
+}5
+d
+E
+X
+&
+j
+8
+T
+X?6%
+i
+O.Y
+ A
+$.I
+}
+m 
+X1
+gn
+<
+_
+6
+;
+)Z
+jb
+9
+9
+:CC
+v
+Y
+JC(@
+R
+_
+%k-
+.
+j
+Y
+qk
+;l
+W
+;
+q+
+rt
+(
+]n
+X
+b
+5X
+YWs*
+CZj)%T
+5
+l
+pe,Uvh
+'J
+-u
+PD
+ 
+~
+#T
+9
+V
+d
+0g
+M
+EO
+h
+nM
+}
+g
+}
+/
+Eh
+>rM
+z
+Tbw
+=u
++j1
+	_
+X
+~
+[0
+5
+kK
+5
+R
+|
+t/] 
+`
+}gD%,;)
+'Q
+0
+-
+sU
+M
+Su
+'2
+Uf
+@?Y:
+u
+{f$
+bD
+Yg
+%#'
+Q
+!
+W@
+|
+)
+0
+b7mW
+=c
+6
+5
+Gv
+S
+F
+'W1
+'QK
+.
+5
+)
+Ej@`
+0
+H+p
+@
+UY
+%
+:_
+*Mi
+.Q
+YmAR
+]
+Jc
+%~
+' }9
+f
+P	
+oz
+8
+o
+k
+n
+5
+@
+X
+j`
+l
+wR}
+1B
+U
+S
+G
+T
+0
+z
+eT
+c
+u
+:
+,s
+@
+r#
+j
+z
+W
+bO"
+:
+H
+m
+|	
+2O
+^
+EfAB6'm[
+Y
+b
+Wn
+AS!SZe1?<f
+$
+P(#n
+!Ac
+ill
+W
+ug
+A`T
+=pI
+}
+I
+G>cc
+zx}~
+4
+F
+	='
+[A
+C
+_
+Xl
+q
+T
+e
+.
+)^
+f>
+fD
+5
+?
+o
+6".
+8 
+8
+J	)^
+pWr
+"
+kVd
+5
+Y,	
+ 
+~B
+@
+S
+C
+l}
+j[
+h)Q]uW
+>([ 
+_
+)S
+;
+D
+s
+F
+}
+,!L
+f5
+,
+n
+i
+H
+Q
+{
++
+[
+k
+[
+|h)
++uE
+%S
+ 
+ 
+ /
+D6
++Y
+z1L
+!p
+2
+m
+P
+O
+ lv`J
+#K@y
+R-#
+6#Pg
+[b
+-hC
+<
+!-
+SU^w
+rQ$
+icn
+A
+;
+kw
+J@
+r
+R
+:
+MrEr
+L
+b
+-
+L
+;/]
+Jy
+i
+p5
+#
+[
+$z
+[;
+An
+/
+f{
+1fRg
+|
+LLj(
+T
+2
+a
+Kg
+x
+bJ
+&&z
+u
+hM
+?m
+A
+$
+Im
+u3#
+<eb
+vXL%J
+CK
+Kg
+A@
+2
+j
+W
+==
+b
+	
+Im[ A
+?
+e
+]E
+\
+%
+<
+ 
+J
+V#
+	
+D
+g
+a*
+R
+,!
+F>+
+4
+5
+X
+If
+O
+M
+l
+-
+"']
+K
+F
+Q
+`
+!me'
+9
+u
+eU
+e
+E
+7{
+^
+V,
+F
+([
+rUM
+W`Co
+$
+$WN
+'{
+^V5v
+;
+)V
+w 
+GP5
+N
+z
+C
+"
+LR
+R
+Yu
+1
+~
+e;MS[
+&&
+]
+U
+M
+v
+}
+&X
+S
+4
+.AHoM
+X
++
+~
+X
+=.
+6
+N
+<F
+/
+YAd6%
+A
+:
+r;
+]
+	
+(-
+=
+l
+ 
+&ut
+DG
+6
+E
+O
+0D
+@D
+Ng
+l
+dQ'
+_
+~
+IU
+Vu
++ ~0
+W
+P
+Auc-
+yj
+J
+" 
+u
+X
+g
+	
+pY
+U
+J3
+"
+u%0
+1
+d
+y
+{
+[
+k<q
+-a
+7o
+n
+A
+p
+0:
+?
+b~
+}\5
+P	
+A
+V
+\
+e
+A
+A
+p
+H+
+qL
+Zw
+#
+\537
+@
+l
+!Yf
+j
+]I
+Bg
+0H
+W
+F
+Z
+l
+i
+B
+%
+I#
+	y
+cI
+	
+@E
+`
+Lwlb`
+"C)
+}
+lW
+6
+g
+=='
+w
+v
+g
+M
+<
+}
+U
+m
+?
+3
+y
+ag
+7v
+^:u]^
+{
+7wfg
+/g
+k*
+R
+#
+&
+D
+}
+=
+)
+|f
+=
+>
+\A
+;
+'~;
+N
+JN7w
+Q
+|
+9
+d
+?
+8
+v
+g
+M
+<
+}
+U
+m
+?
+3
+y
+0
+"
+8
+`
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+|nam
+Arial Narrow Itali
+3
+"
+"
+"
+	
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+Click to edit Master title styl
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master title styl
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+3
+3
+"
+"
+"
+Click to edit Master title styl
+3
+3
+"
+"
+"
+	
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+Click to edit Master title styl
+3
+3
+"
+"
+"
+Click to edit Master title styl
+3
+3
+"
+"
+"
+Click t
+o edit Master title styl
+3
+3
+"
+"
+"
+8	
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+Click to edit Master title styl
+3
+3
+"
+"
+"
+8	
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+Click to edit Master title styl
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master title styl
+3
+3
+"
+"
+"
+"
+"
+"
+"
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master title styl
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master title styl
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master title styl
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master title styl
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+3
+3
+"
+"
+"
+"
+"
+"
+"
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+3
+h
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+3
+h
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+3
+F
+>
+h
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Nar
+row Bol
+,nam
+	Gill San
+3
+h
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+3
+d
+\
+h
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+ 
+ 
+ 
+ 
+ 
+3
+h
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+ 
+ 
+ 
+ 
+ 
+3
+9
+)
+A
+9
+G
+_
+K
+!
+}
+@
+f
+t
+0
+@
+f
+t
+@
+f
+t
+@
+f
+t
+"
+8
+`
+;2
+hnam
+.
+Andre
++
+On-screen Sho
+O
++
+What Wondrous Lo
+0
+hnam
+hnam
+hnam
+hnam
+hnam
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+|nam
+Arial Narrow Itali
+tnam
+Arial Narro
+tnam
+Arial Narro
+,nam
+	Gill San
+What Wondrous Love is This
+What Wondrous Love is This
+What Wondrous Love is This
+What Wondrous Love is This
+What Wondrous Love is This
+What Wondrous Love is This
+Words: Alexander Means. Music: William Walker, 1835
+3
+"
+"
+"
+[
+	
+Click to edit Master text style
+Second leve
+Third leve
+Fourth leve
+Fifth leve
+Click to edit Master title styl
+N
+n^
+3
+r
+{
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+What wondrous love is this,
+O my soul, O my soul,
+what wondrous love is this, O my soul!
+N
+n^
+3
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+What wondrous love is this
+that caused the Lord of bliss
+to bear the dreadful curse
+for my soul, for my soul,
+to bear the dreadful curse for my soul!
+N
+n^
+3
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+To God and to the Lamb,
+I will sing, I will sing,
+to God and to the Lamb,
+I will sing;
+N
+n^
+3
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+to God and to the Lamb,
+who is the great I AM,
+while millions join the theme,
+I will sing, I will sing,
+while millions join the theme,
+I will sing
+N
+n^
+3
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+ 
+ 
+ 
+ 
+ 
+N
+n^
+3
+@,
+/
+ ?
+|nam
+Arial Narrow Bol
+,nam
+	Gill San
+ 
+ 
+ 
+ 
+ 
+N
+n^
+3
+e is This
+What Wondrous Love is This
+What Wondrous Love is This
+What Wondrous Love is This
+Fonts Use
+Design Templat
+Slide Title
+Michae
++
+On-screen Sho
+O
++
+What Wondrous Love is This
+Mike Elliot
+Gill San
+ Pro W
+Lucida Grand
+Arial Narro
+Title & Subtitle copy 
+What Wondrous Love is This
+What Wondrous Love is This
+What Wondrous Lov
