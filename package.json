@@ -17,7 +17,8 @@
     "test": "tape ./test/*.js"
   },
   "dependencies": {
-    "through2": "^2.0.0"
+    "through2": "^2.0.0",
+    "xtend": "^4.0.1"
   },
   "devDependencies": {
     "equal-streams": "0.0.6",
